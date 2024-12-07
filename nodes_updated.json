@@ -1,0 +1,760 @@
+[
+    {
+        "id": "Aaron Bernstein",
+        "total_interests": 380,
+        "type": "faculty"
+    },
+    {
+        "id": "Boris Aronov",
+        "total_interests": 760,
+        "type": "faculty"
+    },
+    {
+        "id": "Brandon Reagen",
+        "total_interests": 760,
+        "type": "faculty"
+    },
+    {
+        "id": "Brendan Dolan-Gavitt",
+        "total_interests": 380,
+        "type": "faculty"
+    },
+    {
+        "id": "Chen Feng (\u51af\u6668)",
+        "total_interests": 950,
+        "type": "faculty"
+    },
+    {
+        "id": "Chinmay Hegde",
+        "total_interests": 950,
+        "type": "faculty"
+    },
+    {
+        "id": "Christopher Musco",
+        "total_interests": 570,
+        "type": "faculty"
+    },
+    {
+        "id": "Claudio T. Silva",
+        "total_interests": 950,
+        "type": "faculty"
+    },
+    {
+        "id": "Damon McCoy",
+        "total_interests": 570,
+        "type": "faculty"
+    },
+    {
+        "id": "Daniel B. Neill",
+        "total_interests": 950,
+        "type": "faculty"
+    },
+    {
+        "id": "Danny Yuxing Huang",
+        "total_interests": 760,
+        "type": "faculty"
+    },
+    {
+        "id": "Darryl Reeves",
+        "total_interests": 90,
+        "type": "faculty"
+    },
+    {
+        "id": "Dishita G Turakhia",
+        "total_interests": 950,
+        "type": "faculty"
+    },
+    {
+        "id": "Edward K Wong",
+        "total_interests": 570,
+        "type": "faculty"
+    },
+    {
+        "id": "Emily Black",
+        "total_interests": 950,
+        "type": "faculty"
+    },
+    {
+        "id": "Erdem Varol",
+        "total_interests": 760,
+        "type": "faculty"
+    },
+    {
+        "id": "Eugene Vinitsky",
+        "total_interests": 760,
+        "type": "faculty"
+    },
+    {
+        "id": "Gustavo Sandoval",
+        "total_interests": 6,
+        "type": "faculty"
+    },
+    {
+        "id": "Jay Chen",
+        "total_interests": 570,
+        "type": "faculty"
+    },
+    {
+        "id": "Juan P Bello",
+        "total_interests": 570,
+        "type": "faculty"
+    },
+    {
+        "id": "Julia Stoyanovich",
+        "total_interests": 950,
+        "type": "faculty"
+    },
+    {
+        "id": "Julian Togelius",
+        "total_interests": 950,
+        "type": "faculty"
+    },
+    {
+        "id": "Juliana Freire",
+        "total_interests": 950,
+        "type": "faculty"
+    },
+    {
+        "id": "Justin Cappos",
+        "total_interests": 950,
+        "type": "faculty"
+    },
+    {
+        "id": "Martin Farach-Colton",
+        "total_interests": 760,
+        "type": "faculty"
+    },
+    {
+        "id": "Nairen Cao",
+        "total_interests": 380,
+        "type": "faculty"
+    },
+    {
+        "id": "Nasir Memon",
+        "total_interests": 950,
+        "type": "faculty"
+    },
+    {
+        "id": "Niall L. Williams",
+        "total_interests": 544,
+        "type": "faculty"
+    },
+    {
+        "id": "Oded Nov",
+        "total_interests": 950,
+        "type": "faculty"
+    },
+    {
+        "id": "Paul Torrens",
+        "total_interests": 570,
+        "type": "faculty"
+    },
+    {
+        "id": "Pawe\u0142 Korus",
+        "total_interests": 950,
+        "type": "faculty"
+    },
+    {
+        "id": "Peter DePasquale",
+        "total_interests": 570,
+        "type": "faculty"
+    },
+    {
+        "id": "Qi Sun",
+        "total_interests": 760,
+        "type": "faculty"
+    },
+    {
+        "id": "Rachel Greenstadt",
+        "total_interests": 760,
+        "type": "faculty"
+    },
+    {
+        "id": "Ramesh Karri \u0c15\u0c30\u0c4d\u0c30\u0c3f \u0c30\u0c2e\u0c47\u0c37\u0c4d",
+        "total_interests": 760,
+        "type": "faculty"
+    },
+    {
+        "id": "Ratan Dey",
+        "total_interests": 855,
+        "type": "faculty"
+    },
+    {
+        "id": "Robert Krueger",
+        "total_interests": 950,
+        "type": "faculty"
+    },
+    {
+        "id": "Rumi Chunara",
+        "total_interests": 760,
+        "type": "faculty"
+    },
+    {
+        "id": "Semiha Ergan",
+        "total_interests": 760,
+        "type": "faculty"
+    },
+    {
+        "id": "Siddharth Garg",
+        "total_interests": 570,
+        "type": "faculty"
+    },
+    {
+        "id": "Torsten Suel",
+        "total_interests": 760,
+        "type": "faculty"
+    },
+    {
+        "id": "Yi-Jen Chiang",
+        "total_interests": 950,
+        "type": "faculty"
+    },
+    {
+        "id": "AI",
+        "type": "interest"
+    },
+    {
+        "id": "AI & Machine Learning",
+        "type": "interest"
+    },
+    {
+        "id": "AI ethics",
+        "type": "interest"
+    },
+    {
+        "id": "AI policy",
+        "type": "interest"
+    },
+    {
+        "id": "AR/VR",
+        "type": "interest"
+    },
+    {
+        "id": "AR/VR visualization",
+        "type": "interest"
+    },
+    {
+        "id": "Additive Manufacturing Security",
+        "type": "interest"
+    },
+    {
+        "id": "Algorithmic Advice",
+        "type": "interest"
+    },
+    {
+        "id": "Algorithms",
+        "type": "interest"
+    },
+    {
+        "id": "Applied Perception",
+        "type": "interest"
+    },
+    {
+        "id": "Architecture Design",
+        "type": "interest"
+    },
+    {
+        "id": "Artificial Intelligence",
+        "type": "interest"
+    },
+    {
+        "id": "Audio Signal Processing",
+        "type": "interest"
+    },
+    {
+        "id": "Augmented Reality",
+        "type": "interest"
+    },
+    {
+        "id": "Authentication",
+        "type": "interest"
+    },
+    {
+        "id": "Autonomous Vehicles",
+        "type": "interest"
+    },
+    {
+        "id": "Big Data & Databases",
+        "type": "interest"
+    },
+    {
+        "id": "Biomedical Visualization",
+        "type": "interest"
+    },
+    {
+        "id": "Biometrics",
+        "type": "interest"
+    },
+    {
+        "id": "CPS Security",
+        "type": "interest"
+    },
+    {
+        "id": "CSCW",
+        "type": "interest"
+    },
+    {
+        "id": "Cloud Computing",
+        "type": "interest"
+    },
+    {
+        "id": "Combinatorial Geometry",
+        "type": "interest"
+    },
+    {
+        "id": "Computational Design",
+        "type": "interest"
+    },
+    {
+        "id": "Computational Geometry",
+        "type": "interest"
+    },
+    {
+        "id": "Computer Architecture",
+        "type": "interest"
+    },
+    {
+        "id": "Computer Graphics",
+        "type": "interest"
+    },
+    {
+        "id": "Computer Science",
+        "type": "interest"
+    },
+    {
+        "id": "Computer Science Education",
+        "type": "interest"
+    },
+    {
+        "id": "Computer Security",
+        "type": "interest"
+    },
+    {
+        "id": "Computer Vision",
+        "type": "interest"
+    },
+    {
+        "id": "Construction Automation",
+        "type": "interest"
+    },
+    {
+        "id": "Construction automation",
+        "type": "interest"
+    },
+    {
+        "id": "Control",
+        "type": "interest"
+    },
+    {
+        "id": "Data Analysis and Visualization",
+        "type": "interest"
+    },
+    {
+        "id": "Data Compression",
+        "type": "interest"
+    },
+    {
+        "id": "Data Science",
+        "type": "interest"
+    },
+    {
+        "id": "Data Structures",
+        "type": "interest"
+    },
+    {
+        "id": "Databases",
+        "type": "interest"
+    },
+    {
+        "id": "Digital Health",
+        "type": "interest"
+    },
+    {
+        "id": "Digital twins",
+        "type": "interest"
+    },
+    {
+        "id": "Discrete Geometry",
+        "type": "interest"
+    },
+    {
+        "id": "Distributed Systems",
+        "type": "interest"
+    },
+    {
+        "id": "Embedded Security",
+        "type": "interest"
+    },
+    {
+        "id": "Evolutionary Computation",
+        "type": "interest"
+    },
+    {
+        "id": "External Memory",
+        "type": "interest"
+    },
+    {
+        "id": "Game AI",
+        "type": "interest"
+    },
+    {
+        "id": "Games",
+        "type": "interest"
+    },
+    {
+        "id": "Geometric Processing",
+        "type": "interest"
+    },
+    {
+        "id": "Geometry Processing",
+        "type": "interest"
+    },
+    {
+        "id": "Geosimulation",
+        "type": "interest"
+    },
+    {
+        "id": "Geovisualization",
+        "type": "interest"
+    },
+    {
+        "id": "Graph algorithms",
+        "type": "interest"
+    },
+    {
+        "id": "Graphics",
+        "type": "interest"
+    },
+    {
+        "id": "HCI",
+        "type": "interest"
+    },
+    {
+        "id": "Hardware Security and Trust",
+        "type": "interest"
+    },
+    {
+        "id": "Health Inequities",
+        "type": "interest"
+    },
+    {
+        "id": "Human Computer Interaction",
+        "type": "interest"
+    },
+    {
+        "id": "Human-AI Interaction",
+        "type": "interest"
+    },
+    {
+        "id": "ICTD",
+        "type": "interest"
+    },
+    {
+        "id": "Internet Measurement",
+        "type": "interest"
+    },
+    {
+        "id": "IoT",
+        "type": "interest"
+    },
+    {
+        "id": "Learning Systems",
+        "type": "interest"
+    },
+    {
+        "id": "ML",
+        "type": "interest"
+    },
+    {
+        "id": "ML/AI in Public Health",
+        "type": "interest"
+    },
+    {
+        "id": "Machine Learning",
+        "type": "interest"
+    },
+    {
+        "id": "Machine Listening",
+        "type": "interest"
+    },
+    {
+        "id": "Machine learning",
+        "type": "interest"
+    },
+    {
+        "id": "Materials Design",
+        "type": "interest"
+    },
+    {
+        "id": "Media Forensics",
+        "type": "interest"
+    },
+    {
+        "id": "Movement Analysis",
+        "type": "interest"
+    },
+    {
+        "id": "Multi-agent Systems",
+        "type": "interest"
+    },
+    {
+        "id": "Multimedia Computing",
+        "type": "interest"
+    },
+    {
+        "id": "Music Information Retrieval",
+        "type": "interest"
+    },
+    {
+        "id": "Navigation",
+        "type": "interest"
+    },
+    {
+        "id": "Network Security",
+        "type": "interest"
+    },
+    {
+        "id": "Networked Systems",
+        "type": "interest"
+    },
+    {
+        "id": "Neuroscience",
+        "type": "interest"
+    },
+    {
+        "id": "Online Social Networks",
+        "type": "interest"
+    },
+    {
+        "id": "Parallel algorithms",
+        "type": "interest"
+    },
+    {
+        "id": "Privacy",
+        "type": "interest"
+    },
+    {
+        "id": "Privacy & Security",
+        "type": "interest"
+    },
+    {
+        "id": "Procedural Content Generation",
+        "type": "interest"
+    },
+    {
+        "id": "Reinforcement Learning",
+        "type": "interest"
+    },
+    {
+        "id": "Robot Motion Planning",
+        "type": "interest"
+    },
+    {
+        "id": "Robotics",
+        "type": "interest"
+    },
+    {
+        "id": "Security",
+        "type": "interest"
+    },
+    {
+        "id": "Signal Processing",
+        "type": "interest"
+    },
+    {
+        "id": "Social Computing",
+        "type": "interest"
+    },
+    {
+        "id": "Sports Analytics",
+        "type": "interest"
+    },
+    {
+        "id": "Statistics",
+        "type": "interest"
+    },
+    {
+        "id": "Storage Systems",
+        "type": "interest"
+    },
+    {
+        "id": "Theory of Computation",
+        "type": "interest"
+    },
+    {
+        "id": "Transportation",
+        "type": "interest"
+    },
+    {
+        "id": "Urban Computing",
+        "type": "interest"
+    },
+    {
+        "id": "VLSI",
+        "type": "interest"
+    },
+    {
+        "id": "Virtual Reality",
+        "type": "interest"
+    },
+    {
+        "id": "Visual Analytics",
+        "type": "interest"
+    },
+    {
+        "id": "Visualization",
+        "type": "interest"
+    },
+    {
+        "id": "Web Development and Secuirty",
+        "type": "interest"
+    },
+    {
+        "id": "Web Search and Mining",
+        "type": "interest"
+    },
+    {
+        "id": "algorithmic fairness",
+        "type": "interest"
+    },
+    {
+        "id": "algorithmic ranking",
+        "type": "interest"
+    },
+    {
+        "id": "anti-discrimination",
+        "type": "interest"
+    },
+    {
+        "id": "big data",
+        "type": "interest"
+    },
+    {
+        "id": "cloud computing",
+        "type": "interest"
+    },
+    {
+        "id": "computational biology",
+        "type": "interest"
+    },
+    {
+        "id": "computer hardware",
+        "type": "interest"
+    },
+    {
+        "id": "computer science education",
+        "type": "interest"
+    },
+    {
+        "id": "computer security",
+        "type": "interest"
+    },
+    {
+        "id": "computer vision",
+        "type": "interest"
+    },
+    {
+        "id": "data management",
+        "type": "interest"
+    },
+    {
+        "id": "deep learning",
+        "type": "interest"
+    },
+    {
+        "id": "event and pattern detection",
+        "type": "interest"
+    },
+    {
+        "id": "geocomputation",
+        "type": "interest"
+    },
+    {
+        "id": "graph algorithms",
+        "type": "interest"
+    },
+    {
+        "id": "health",
+        "type": "interest"
+    },
+    {
+        "id": "machine learning",
+        "type": "interest"
+    },
+    {
+        "id": "machine learning for good",
+        "type": "interest"
+    },
+    {
+        "id": "machine learning policy",
+        "type": "interest"
+    },
+    {
+        "id": "media forensics",
+        "type": "interest"
+    },
+    {
+        "id": "privacy",
+        "type": "interest"
+    },
+    {
+        "id": "provenance",
+        "type": "interest"
+    },
+    {
+        "id": "public health and safety",
+        "type": "interest"
+    },
+    {
+        "id": "reproducibility",
+        "type": "interest"
+    },
+    {
+        "id": "responsible AI",
+        "type": "interest"
+    },
+    {
+        "id": "security",
+        "type": "interest"
+    },
+    {
+        "id": "signal processing",
+        "type": "interest"
+    },
+    {
+        "id": "software supply chain",
+        "type": "interest"
+    },
+    {
+        "id": "software verification",
+        "type": "interest"
+    },
+    {
+        "id": "spatial and subset scanning",
+        "type": "interest"
+    },
+    {
+        "id": "spatial behavior",
+        "type": "interest"
+    },
+    {
+        "id": "sublinear algorithms",
+        "type": "interest"
+    },
+    {
+        "id": "urban systems",
+        "type": "interest"
+    },
+    {
+        "id": "virtualization",
+        "type": "interest"
+    },
+    {
+        "id": "visualization",
+        "type": "interest"
+    },
+    {
+        "id": "watermarking",
+        "type": "interest"
+    }
+]
