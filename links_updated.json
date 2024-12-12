@@ -1,0 +1,832 @@
+[
+    {
+        "source": "Aaron Bernstein",
+        "target": "Graph Algorithms",
+        "weight": 1
+    },
+    {
+        "source": "Aaron Bernstein",
+        "target": "Sublinear Algorithms",
+        "weight": 1
+    },
+    {
+        "source": "Boris Aronov",
+        "target": "Algorithms",
+        "weight": 1
+    },
+    {
+        "source": "Boris Aronov",
+        "target": "Combinatorial Geometry",
+        "weight": 1
+    },
+    {
+        "source": "Boris Aronov",
+        "target": "Computational Geometry",
+        "weight": 1
+    },
+    {
+        "source": "Boris Aronov",
+        "target": "Discrete Geometry",
+        "weight": 1
+    },
+    {
+        "source": "Brandon Reagen",
+        "target": "Computer Architecture",
+        "weight": 1
+    },
+    {
+        "source": "Brandon Reagen",
+        "target": "Machine Learning",
+        "weight": 1
+    },
+    {
+        "source": "Brandon Reagen",
+        "target": "Privacy",
+        "weight": 1
+    },
+    {
+        "source": "Brandon Reagen",
+        "target": "Vlsi",
+        "weight": 1
+    },
+    {
+        "source": "Brendan Dolan-Gavitt",
+        "target": "Machine Learning",
+        "weight": 1
+    },
+    {
+        "source": "Brendan Dolan-Gavitt",
+        "target": "Security",
+        "weight": 1
+    },
+    {
+        "source": "Chen Feng (\u51af\u6668)",
+        "target": "Augmented Reality",
+        "weight": 1
+    },
+    {
+        "source": "Chen Feng (\u51af\u6668)",
+        "target": "Computer Vision",
+        "weight": 1
+    },
+    {
+        "source": "Chen Feng (\u51af\u6668)",
+        "target": "Construction Automation",
+        "weight": 1
+    },
+    {
+        "source": "Chen Feng (\u51af\u6668)",
+        "target": "Machine Learning",
+        "weight": 1
+    },
+    {
+        "source": "Chen Feng (\u51af\u6668)",
+        "target": "Robotics",
+        "weight": 1
+    },
+    {
+        "source": "Chinmay Hegde",
+        "target": "Algorithms",
+        "weight": 1
+    },
+    {
+        "source": "Chinmay Hegde",
+        "target": "Machine Learning",
+        "weight": 1
+    },
+    {
+        "source": "Chinmay Hegde",
+        "target": "Materials Design",
+        "weight": 1
+    },
+    {
+        "source": "Chinmay Hegde",
+        "target": "Signal Processing",
+        "weight": 1
+    },
+    {
+        "source": "Chinmay Hegde",
+        "target": "Transportation",
+        "weight": 1
+    },
+    {
+        "source": "Christopher Musco",
+        "target": "Algorithms",
+        "weight": 1
+    },
+    {
+        "source": "Christopher Musco",
+        "target": "Machine Learning",
+        "weight": 1
+    },
+    {
+        "source": "Christopher Musco",
+        "target": "Theory Of Computation",
+        "weight": 1
+    },
+    {
+        "source": "Claudio T. Silva",
+        "target": "Geometry Processing",
+        "weight": 1
+    },
+    {
+        "source": "Claudio T. Silva",
+        "target": "Graphics",
+        "weight": 1
+    },
+    {
+        "source": "Claudio T. Silva",
+        "target": "Sports Analytics",
+        "weight": 1
+    },
+    {
+        "source": "Claudio T. Silva",
+        "target": "Urban Computing",
+        "weight": 1
+    },
+    {
+        "source": "Claudio T. Silva",
+        "target": "Visualization",
+        "weight": 1
+    },
+    {
+        "source": "Damon Mccoy",
+        "target": "Computer Security",
+        "weight": 1
+    },
+    {
+        "source": "Damon Mccoy",
+        "target": "Privacy",
+        "weight": 1
+    },
+    {
+        "source": "Damon Mccoy",
+        "target": "Security",
+        "weight": 1
+    },
+    {
+        "source": "Daniel B. Neill",
+        "target": "Event And Pattern Detection",
+        "weight": 1
+    },
+    {
+        "source": "Daniel B. Neill",
+        "target": "Machine Learning For Good",
+        "weight": 1
+    },
+    {
+        "source": "Daniel B. Neill",
+        "target": "Public Health And Safety",
+        "weight": 1
+    },
+    {
+        "source": "Daniel B. Neill",
+        "target": "Spatial And Subset Scanning",
+        "weight": 1
+    },
+    {
+        "source": "Daniel B. Neill",
+        "target": "Urban Systems",
+        "weight": 1
+    },
+    {
+        "source": "Danny Yuxing Huang",
+        "target": "Health",
+        "weight": 1
+    },
+    {
+        "source": "Danny Yuxing Huang",
+        "target": "Iot",
+        "weight": 1
+    },
+    {
+        "source": "Danny Yuxing Huang",
+        "target": "Privacy",
+        "weight": 1
+    },
+    {
+        "source": "Danny Yuxing Huang",
+        "target": "Security",
+        "weight": 1
+    },
+    {
+        "source": "Darryl Reeves",
+        "target": "Computational Biology",
+        "weight": 1
+    },
+    {
+        "source": "Darryl Reeves",
+        "target": "Computer Science Education",
+        "weight": 1
+    },
+    {
+        "source": "Dishita G Turakhia",
+        "target": "Ar/Vr",
+        "weight": 1
+    },
+    {
+        "source": "Dishita G Turakhia",
+        "target": "Architecture Design",
+        "weight": 1
+    },
+    {
+        "source": "Dishita G Turakhia",
+        "target": "Computational Design",
+        "weight": 1
+    },
+    {
+        "source": "Dishita G Turakhia",
+        "target": "Human Computer Interaction",
+        "weight": 1
+    },
+    {
+        "source": "Dishita G Turakhia",
+        "target": "Learning Systems",
+        "weight": 1
+    },
+    {
+        "source": "Edward K Wong",
+        "target": "Computer Vision",
+        "weight": 1
+    },
+    {
+        "source": "Edward K Wong",
+        "target": "Machine Learning",
+        "weight": 1
+    },
+    {
+        "source": "Edward K Wong",
+        "target": "Multimedia Computing",
+        "weight": 1
+    },
+    {
+        "source": "Emily Black",
+        "target": "Algorithmic Fairness",
+        "weight": 1
+    },
+    {
+        "source": "Emily Black",
+        "target": "Anti-Discrimination",
+        "weight": 1
+    },
+    {
+        "source": "Emily Black",
+        "target": "Deep Learning",
+        "weight": 1
+    },
+    {
+        "source": "Emily Black",
+        "target": "Machine Learning",
+        "weight": 1
+    },
+    {
+        "source": "Emily Black",
+        "target": "Machine Learning Policy",
+        "weight": 1
+    },
+    {
+        "source": "Erdem Varol",
+        "target": "Computer Vision",
+        "weight": 1
+    },
+    {
+        "source": "Erdem Varol",
+        "target": "Machine Learning",
+        "weight": 1
+    },
+    {
+        "source": "Erdem Varol",
+        "target": "Neuroscience",
+        "weight": 1
+    },
+    {
+        "source": "Erdem Varol",
+        "target": "Statistics",
+        "weight": 1
+    },
+    {
+        "source": "Eugene Vinitsky",
+        "target": "Autonomous Vehicles",
+        "weight": 1
+    },
+    {
+        "source": "Eugene Vinitsky",
+        "target": "Control",
+        "weight": 1
+    },
+    {
+        "source": "Eugene Vinitsky",
+        "target": "Multi-Agent Systems",
+        "weight": 1
+    },
+    {
+        "source": "Eugene Vinitsky",
+        "target": "Reinforcement Learning",
+        "weight": 1
+    },
+    {
+        "source": "Gustavo Sandoval",
+        "target": "Machine Learning",
+        "weight": 1
+    },
+    {
+        "source": "Gustavo Sandoval",
+        "target": "Security",
+        "weight": 1
+    },
+    {
+        "source": "Jay Chen",
+        "target": "Hci",
+        "weight": 1
+    },
+    {
+        "source": "Jay Chen",
+        "target": "Ictd",
+        "weight": 1
+    },
+    {
+        "source": "Jay Chen",
+        "target": "Networked Systems",
+        "weight": 1
+    },
+    {
+        "source": "Juan P Bello",
+        "target": "Audio Signal Processing",
+        "weight": 1
+    },
+    {
+        "source": "Juan P Bello",
+        "target": "Machine Listening",
+        "weight": 1
+    },
+    {
+        "source": "Juan P Bello",
+        "target": "Music Information Retrieval",
+        "weight": 1
+    },
+    {
+        "source": "Julia Stoyanovich",
+        "target": "Ai Ethics",
+        "weight": 1
+    },
+    {
+        "source": "Julia Stoyanovich",
+        "target": "Ai Policy",
+        "weight": 1
+    },
+    {
+        "source": "Julia Stoyanovich",
+        "target": "Algorithmic Ranking",
+        "weight": 1
+    },
+    {
+        "source": "Julia Stoyanovich",
+        "target": "Data Management",
+        "weight": 1
+    },
+    {
+        "source": "Julia Stoyanovich",
+        "target": "Responsible Ai",
+        "weight": 1
+    },
+    {
+        "source": "Julian Togelius",
+        "target": "Artificial Intelligence",
+        "weight": 1
+    },
+    {
+        "source": "Julian Togelius",
+        "target": "Evolutionary Computation",
+        "weight": 1
+    },
+    {
+        "source": "Julian Togelius",
+        "target": "Game Ai",
+        "weight": 1
+    },
+    {
+        "source": "Julian Togelius",
+        "target": "Games",
+        "weight": 1
+    },
+    {
+        "source": "Julian Togelius",
+        "target": "Procedural Content Generation",
+        "weight": 1
+    },
+    {
+        "source": "Juliana Freire",
+        "target": "Big Data",
+        "weight": 1
+    },
+    {
+        "source": "Juliana Freire",
+        "target": "Data Management",
+        "weight": 1
+    },
+    {
+        "source": "Juliana Freire",
+        "target": "Provenance",
+        "weight": 1
+    },
+    {
+        "source": "Juliana Freire",
+        "target": "Reproducibility",
+        "weight": 1
+    },
+    {
+        "source": "Juliana Freire",
+        "target": "Visualization",
+        "weight": 1
+    },
+    {
+        "source": "Justin Cappos",
+        "target": "Cloud Computing",
+        "weight": 1
+    },
+    {
+        "source": "Justin Cappos",
+        "target": "Security",
+        "weight": 1
+    },
+    {
+        "source": "Justin Cappos",
+        "target": "Software Supply Chain",
+        "weight": 1
+    },
+    {
+        "source": "Justin Cappos",
+        "target": "Software Verification",
+        "weight": 1
+    },
+    {
+        "source": "Justin Cappos",
+        "target": "Virtualization",
+        "weight": 1
+    },
+    {
+        "source": "Martin Farach-Colton",
+        "target": "Algorithms",
+        "weight": 1
+    },
+    {
+        "source": "Martin Farach-Colton",
+        "target": "Data Structures",
+        "weight": 1
+    },
+    {
+        "source": "Martin Farach-Colton",
+        "target": "External Memory",
+        "weight": 1
+    },
+    {
+        "source": "Martin Farach-Colton",
+        "target": "Storage Systems",
+        "weight": 1
+    },
+    {
+        "source": "Nairen Cao",
+        "target": "Graph Algorithms",
+        "weight": 1
+    },
+    {
+        "source": "Nairen Cao",
+        "target": "Parallel Algorithms",
+        "weight": 1
+    },
+    {
+        "source": "Nasir Memon",
+        "target": "Authentication",
+        "weight": 1
+    },
+    {
+        "source": "Nasir Memon",
+        "target": "Biometrics",
+        "weight": 1
+    },
+    {
+        "source": "Nasir Memon",
+        "target": "Data Compression",
+        "weight": 1
+    },
+    {
+        "source": "Nasir Memon",
+        "target": "Media Forensics",
+        "weight": 1
+    },
+    {
+        "source": "Nasir Memon",
+        "target": "Network Security",
+        "weight": 1
+    },
+    {
+        "source": "Niall L. Williams",
+        "target": "Applied Perception",
+        "weight": 1
+    },
+    {
+        "source": "Niall L. Williams",
+        "target": "Computer Graphics",
+        "weight": 1
+    },
+    {
+        "source": "Niall L. Williams",
+        "target": "Navigation",
+        "weight": 1
+    },
+    {
+        "source": "Niall L. Williams",
+        "target": "Virtual Reality",
+        "weight": 1
+    },
+    {
+        "source": "Oded Nov",
+        "target": "Algorithmic Advice",
+        "weight": 1
+    },
+    {
+        "source": "Oded Nov",
+        "target": "Cscw",
+        "weight": 1
+    },
+    {
+        "source": "Oded Nov",
+        "target": "Digital Health",
+        "weight": 1
+    },
+    {
+        "source": "Oded Nov",
+        "target": "Human Computer Interaction",
+        "weight": 1
+    },
+    {
+        "source": "Oded Nov",
+        "target": "Human-Ai Interaction",
+        "weight": 1
+    },
+    {
+        "source": "Paul Torrens",
+        "target": "Geocomputation",
+        "weight": 1
+    },
+    {
+        "source": "Paul Torrens",
+        "target": "Geosimulation",
+        "weight": 1
+    },
+    {
+        "source": "Paul Torrens",
+        "target": "Spatial Behavior",
+        "weight": 1
+    },
+    {
+        "source": "Pawe\u0142 Korus",
+        "target": "Computer Vision",
+        "weight": 1
+    },
+    {
+        "source": "Pawe\u0142 Korus",
+        "target": "Media Forensics",
+        "weight": 1
+    },
+    {
+        "source": "Pawe\u0142 Korus",
+        "target": "Security",
+        "weight": 1
+    },
+    {
+        "source": "Pawe\u0142 Korus",
+        "target": "Signal Processing",
+        "weight": 1
+    },
+    {
+        "source": "Pawe\u0142 Korus",
+        "target": "Watermarking",
+        "weight": 1
+    },
+    {
+        "source": "Peter Depasquale",
+        "target": "Cloud Computing",
+        "weight": 1
+    },
+    {
+        "source": "Peter Depasquale",
+        "target": "Computer Science Education",
+        "weight": 1
+    },
+    {
+        "source": "Peter Depasquale",
+        "target": "Web Development And Secuirty",
+        "weight": 1
+    },
+    {
+        "source": "Qi Sun",
+        "target": "Applied Perception",
+        "weight": 1
+    },
+    {
+        "source": "Qi Sun",
+        "target": "Augmented Reality",
+        "weight": 1
+    },
+    {
+        "source": "Qi Sun",
+        "target": "Computer Graphics",
+        "weight": 1
+    },
+    {
+        "source": "Qi Sun",
+        "target": "Virtual Reality",
+        "weight": 1
+    },
+    {
+        "source": "Rachel Greenstadt",
+        "target": "Artificial Intelligence",
+        "weight": 1
+    },
+    {
+        "source": "Rachel Greenstadt",
+        "target": "Computer Science",
+        "weight": 1
+    },
+    {
+        "source": "Rachel Greenstadt",
+        "target": "Computer Security",
+        "weight": 1
+    },
+    {
+        "source": "Rachel Greenstadt",
+        "target": "Privacy",
+        "weight": 1
+    },
+    {
+        "source": "Ramesh Karri \u0c15\u0c30\u0c4d\u0c30\u0c3f \u0c30\u0c2e\u0c47\u0c37\u0c4d",
+        "target": "Additive Manufacturing Security",
+        "weight": 1
+    },
+    {
+        "source": "Ramesh Karri \u0c15\u0c30\u0c4d\u0c30\u0c3f \u0c30\u0c2e\u0c47\u0c37\u0c4d",
+        "target": "Cps Security",
+        "weight": 1
+    },
+    {
+        "source": "Ramesh Karri \u0c15\u0c30\u0c4d\u0c30\u0c3f \u0c30\u0c2e\u0c47\u0c37\u0c4d",
+        "target": "Embedded Security",
+        "weight": 1
+    },
+    {
+        "source": "Ramesh Karri \u0c15\u0c30\u0c4d\u0c30\u0c3f \u0c30\u0c2e\u0c47\u0c37\u0c4d",
+        "target": "Hardware Security And Trust",
+        "weight": 1
+    },
+    {
+        "source": "Ratan Dey",
+        "target": "Ai & Machine Learning",
+        "weight": 1
+    },
+    {
+        "source": "Ratan Dey",
+        "target": "Big Data & Databases",
+        "weight": 1
+    },
+    {
+        "source": "Ratan Dey",
+        "target": "Internet Measurement",
+        "weight": 1
+    },
+    {
+        "source": "Ratan Dey",
+        "target": "Online Social Networks",
+        "weight": 1
+    },
+    {
+        "source": "Ratan Dey",
+        "target": "Privacy & Security",
+        "weight": 1
+    },
+    {
+        "source": "Robert Krueger",
+        "target": "Biomedical Visualization",
+        "weight": 1
+    },
+    {
+        "source": "Robert Krueger",
+        "target": "Geovisualization",
+        "weight": 1
+    },
+    {
+        "source": "Robert Krueger",
+        "target": "Movement Analysis",
+        "weight": 1
+    },
+    {
+        "source": "Robert Krueger",
+        "target": "Visual Analytics",
+        "weight": 1
+    },
+    {
+        "source": "Robert Krueger",
+        "target": "Visualization",
+        "weight": 1
+    },
+    {
+        "source": "Rumi Chunara",
+        "target": "Data Science",
+        "weight": 1
+    },
+    {
+        "source": "Rumi Chunara",
+        "target": "Health Inequities",
+        "weight": 1
+    },
+    {
+        "source": "Rumi Chunara",
+        "target": "Ml/Ai In Public Health",
+        "weight": 1
+    },
+    {
+        "source": "Rumi Chunara",
+        "target": "Social Computing",
+        "weight": 1
+    },
+    {
+        "source": "Semiha Ergan",
+        "target": "Ai",
+        "weight": 1
+    },
+    {
+        "source": "Semiha Ergan",
+        "target": "Ar/Vr Visualization",
+        "weight": 1
+    },
+    {
+        "source": "Semiha Ergan",
+        "target": "Construction Automation",
+        "weight": 1
+    },
+    {
+        "source": "Semiha Ergan",
+        "target": "Digital Twins",
+        "weight": 1
+    },
+    {
+        "source": "Siddharth Garg",
+        "target": "Computer Hardware",
+        "weight": 1
+    },
+    {
+        "source": "Siddharth Garg",
+        "target": "Computer Security",
+        "weight": 1
+    },
+    {
+        "source": "Siddharth Garg",
+        "target": "Ml",
+        "weight": 1
+    },
+    {
+        "source": "Torsten Suel",
+        "target": "Algorithms",
+        "weight": 1
+    },
+    {
+        "source": "Torsten Suel",
+        "target": "Databases",
+        "weight": 1
+    },
+    {
+        "source": "Torsten Suel",
+        "target": "Distributed Systems",
+        "weight": 1
+    },
+    {
+        "source": "Torsten Suel",
+        "target": "Web Search And Mining",
+        "weight": 1
+    },
+    {
+        "source": "Yi-Jen Chiang",
+        "target": "Algorithms",
+        "weight": 1
+    },
+    {
+        "source": "Yi-Jen Chiang",
+        "target": "Computational Geometry",
+        "weight": 1
+    },
+    {
+        "source": "Yi-Jen Chiang",
+        "target": "Data Analysis And Visualization",
+        "weight": 1
+    },
+    {
+        "source": "Yi-Jen Chiang",
+        "target": "Geometric Processing",
+        "weight": 1
+    },
+    {
+        "source": "Yi-Jen Chiang",
+        "target": "Robot Motion Planning",
+        "weight": 1
+    }
+]
