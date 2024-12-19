@@ -25,7 +25,7 @@ const tooltip = d3.select("body").append("div")
 
 const legendData = [
     { label: "Faculty", color: "#500F87" },
-    { label: "Interests", color: "#1F0535" }
+    { label: "Interests", color: "black" }
 ];
 
 // Add legend
@@ -105,7 +105,7 @@ Promise.all([
     // Define color scale
     const color = d3.scaleOrdinal()
         .domain(nodes.map(d => d.type))
-        .range(["#500F87", "#1F0535"]); // Colors for faculty and interests
+        .range(["#500F87", "black"]); // Colors for faculty and interests
 
     // Add background arcs for groups
     const groups = [
